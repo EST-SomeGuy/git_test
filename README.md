@@ -1,0 +1,1 @@
+This is Jaak's first git project!
